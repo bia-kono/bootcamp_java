@@ -1,10 +1,10 @@
-# Bootcamp Santander Backend com Java 
+# Bootcamp Santander Back-end com Java 📚
 
-Este repositório possui anotações, códigos e projetos que estão sendo desenvolvidos durante o **Bootcamp Santander Backend com Java**. [DIO.me - Banco Santander](https://web.dio.me/track/fbf007ec-42df-4c8b-af3d-e8dea9448693)
+Este repositório possui anotações, códigos e projetos que estão sendo desenvolvidos durante o [**Bootcamp Santander Backend com Java**](https://web.dio.me/track/fbf007ec-42df-4c8b-af3d-e8dea9448693)
 
 ---
 
-## Conteúdo do Bootcamp
+## Conteúdo:
 
 - Fundamentos da linguagem Java
 - Programação orientada a objetos (POO)
@@ -17,7 +17,7 @@ Este repositório possui anotações, códigos e projetos que estão sendo desen
 
 ---
 
-## Tecnologias e Ferramentas
+## Tecnologias e Ferramentas:
 
 - Java JDK 21
 - Spring Boot
@@ -28,7 +28,7 @@ Este repositório possui anotações, códigos e projetos que estão sendo desen
 
 ---
 
-## Estrutura prévia do Repositório
+## Estrutura prévia do Repositório:
 
 📦 bootcamp_java
 ├── fundamentos_java/
@@ -40,7 +40,7 @@ Este repositório possui anotações, códigos e projetos que estão sendo desen
 
 ---
 
-## Referências e Materiais de Apoio
+## Referências e Materiais de Apoio:
 
 - [Documentação oficial do Java](https://docs.oracle.com/en/java/)
 - [W3Schools – Java](https://www.w3schools.com/java/)
@@ -48,11 +48,6 @@ Este repositório possui anotações, códigos e projetos que estão sendo desen
 
 ---
 
-## Sobre a Autora
-
-**Bianca Oliveira**  
-Estudante de Análise e Desenvolvimento de Sistemas | Participante do Bootcamp Santander Backend com Java 2025
-
-[LinkedIn](https://www.linkedin.com/in/bianca-d-oliveira/)
-
-
+# [**Bianca Oliveira**](https://www.linkedin.com/in/bianca-d-oliveira/)
+Estudante de Análise e Desenvolvimento de Sistemas
+Participante do Bootcamp Santander Backend com Java 2025
