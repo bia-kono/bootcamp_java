@@ -45,9 +45,3 @@ Este repositório possui anotações, códigos e projetos que estão sendo desen
 - [Documentação oficial do Java](https://docs.oracle.com/en/java/)
 - [W3Schools – Java](https://www.w3schools.com/java/)
 - [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-
----
-
-# [**Bianca Oliveira**](https://www.linkedin.com/in/bianca-d-oliveira/)
-Estudante de Análise e Desenvolvimento de Sistemas
-Participante do Bootcamp Santander Backend com Java 2025
